@@ -38,7 +38,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamah
 
 ## 🛠️ Skills
 
-![Skills](https://img.shields.io/badge/Skills-Python%2C%20JavaScript%2C%20SQL-orange)
+![Skills](https://img.shields.io/badge/Skills-Python%2C%20Java%2C%20C%2B%2B%2C%20JavaScript%2C%20TypeScript%2C%20HTML%2C%20CSS-orange)
 - **Programming Languages:** - Python , Java, C++, JavaScript, TypeScript,  HTML, CSS
 - **Frameworks:** - React.js (React), Next.js, Node.js,  React Native, Flask
 - **Developer Tools:** -Git, Docker, VS Code, Visual Studio, PyCharm, Ecllipse, Trello, cVAT, SPSS
