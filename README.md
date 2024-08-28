@@ -13,14 +13,16 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamah
 - **Description:** Built a Pantry Tracker app with real-time data management and authentication.
 - **Features:** Dynamic data visualization, responsive UI.
 
-##Internship Experience
+## Internship Experience
+- **SWE Fellow** at Headstarter AI
+  - Building 5 AI projects and participating in multiple hackathons.
+
+- **Software Engineer Intern** at Code for the Community
+  - Contributed to a mobile app for at-risk youth and unhoused individuals.
+
 **AI Software Engineer Intern** at Mentorness
   - Developed a helmet detection system using YOLOv8 and OpenCV.
   - Led a project on resume parsing and candidate ranking using NLP techniques.
-- **Software Engineer Intern** at Code for the Community
-  - Contributed to a mobile app for at-risk youth and unhoused individuals.
-- **SWE Fellow** at Headstarter AI
-  - Building 5 AI projects and participating in multiple hackathons.
 
 ## 🏆 Achievements
 
