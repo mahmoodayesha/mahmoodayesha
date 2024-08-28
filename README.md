@@ -18,7 +18,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamah
   - Building 5 AI projects and participating in multiple hackathons.
 
 - **Software Engineer Intern** at Code for the Community
-  - Contributed to a mobile app for at-risk youth and unhoused individuals.
+  - Contributed to a mobile app for at-risk youth and unhoused individuals in California.
 
 **AI Software Engineer Intern** at Mentorness
   - Developed a helmet detection system using YOLOv8 and OpenCV.
@@ -41,9 +41,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamah
 ![Skills](https://img.shields.io/badge/Skills-Python%2C%20JavaScript%2C%20SQL-orange)
 - **Programming Languages:** - Python , Java, C++, JavaScript, TypeScript,  HTML, CSS
 - **Frameworks:** - React.js (React), Next.js, Node.js,  React Native, Flask
-- **Developer Tools** Git, Docker, VS Code, Visual Studio, PyCharm, Ecllipse, Trello, cVAT, SPSS
-- **Libraries** OpenCV, YOLOv8, Convolutional Neural Networks (CNN) , Deep Neural Networks (DNN) , Chart.js, Material UI, LangChain, Streamlit
-- **APIS/Cloud Services** Open AI API Integration , Stripe API Integration, Firebase , Clerk
+- **Developer Tools:** -Git, Docker, VS Code, Visual Studio, PyCharm, Ecllipse, Trello, cVAT, SPSS
+- **Libraries:** -OpenCV, YOLOv8, Convolutional Neural Networks (CNN) , Deep Neural Networks (DNN) , Chart.js, Material UI, LangChain, Streamlit
+- **APIS/Cloud Services:** -Open AI API Integration , Stripe API Integration, Firebase , Clerk
 
 ## 📜 Certifications
 
@@ -53,8 +53,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamah
 
 ## 🌟 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ayeshamahmood)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/mahmood-ayesha/)
+- [GitHub](https://github.com/mahmoodayesha)
 - [Email](mailto:mahmoodayesha612@gmail.com)
 
 ---
