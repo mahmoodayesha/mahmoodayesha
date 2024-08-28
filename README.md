@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Pull Requests
+
+- [PRs in flashcard-saas](https://github.com/radleyle/flashcard-saas/pulls?q=is%3Apr+author%3Amahmoodayesha)
+
