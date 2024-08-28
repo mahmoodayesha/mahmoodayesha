@@ -39,9 +39,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamah
 ## 🛠️ Skills
 
 ![Skills](https://img.shields.io/badge/Skills-Python%2C%20JavaScript%2C%20SQL-orange)
-- **Programming Languages:** Python, JavaScript, SQL
-- **Technologies:** TensorFlow, PyTorch, Flask, OpenCV
-- **Tools:** Git, Docker
+- **Programming Languages:** - Python , Java, C++, JavaScript, TypeScript,  HTML, CSS
+- **Frameworks:** - React.js (React), Next.js, Node.js,  React Native, Flask
+- **Developer Tools** Git, Docker, VS Code, Visual Studio, PyCharm, Ecllipse, Trello, cVAT, SPSS
+- **Libraries** OpenCV, YOLOv8, Convolutional Neural Networks (CNN) , Deep Neural Networks (DNN) , Chart.js, Material UI, LangChain, Streamlit
+- **APIS/Cloud Services** Open AI API Integration , Stripe API Integration, Firebase , Clerk
 
 ## 📜 Certifications
 
