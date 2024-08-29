@@ -8,7 +8,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamah
 
 ## 🚀 Current Projects
 
-### 📦 [**stockMASTER**](https://github.com/yourusername/stockMASTER)
+### 📦 [**stockMASTER**](https://yourstockmaster.vercel.app)
 ![stockMASTER](https://img.shields.io/badge/Tech-React.js%2C%20Next.js%2C%20Firebase%2C%20Chart.js%2C%20Material--UI-blue)
 - **Description:** Built a Pantry Tracker app with real-time data management and authentication.
 - **Features:** Dynamic data visualization, responsive UI.
