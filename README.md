@@ -20,7 +20,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamah
 - **Software Engineer Intern** at Code for the Community
   - Contributed to a mobile app for at-risk youth and unhoused individuals in California.
 
-**AI Software Engineer Intern** at Mentorness
+- **AI Software Engineer Intern** at Mentorness
   - Developed a helmet detection system using YOLOv8 and OpenCV.
   - Led a project on resume parsing and candidate ranking using NLP techniques.
 
@@ -50,6 +50,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamah
 ![Certifications](https://img.shields.io/badge/Certifications-Databricks%2C%20Google%20Cloud-purple)
 - **Generative AI Fundamentals** - Databricks
 - **Introduction to Generative AI** - Google Cloud
+- **Introduction to Large Language Models** -  Google Cloud
+-  **Introduction to Responsible AI** -  Google Cloud
+-  **Responsible AI: Applying AI Principles with Google Cloud** - Google Cloud
 
 ## 🌟 Connect with Me
 
@@ -61,7 +64,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamah
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me if you have any questions or opportunities.
 
-## My Pull Requests
+## My Recent Pull Requests & Contrbutions
 - [PRs in ROMO-App](https://github.com/CodeForTheCommunity/ROMO-App/pulls?q=is%3Apr+author%3Amahmoodayesha)
 
 - [PRs in flashcard-saas](https://github.com/radleyle/flashcard-saas/pulls?q=is%3Apr+author%3Amahmoodayesha)
