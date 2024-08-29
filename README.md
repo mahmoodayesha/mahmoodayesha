@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a Computer Science & Software Engineering student at the University of Washington Bothell, passionate about AI, data science, and software engineering. I'm actively seeking internships for Fall 2024 / Summer 2025 to further hone my skills and contribute to innovative projects.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamahmood) or reach out via email at [mahmoodayesha612@gmail.com](mailto:mahmoodayesha612@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayeshamahmood) or reach out via email at [mahmoodayesha612@gmail.com](mailto:mahmoodayesha612@gmail.com) if you have any questions, work on projects, or any oppurtunities!!
 
 ## 🚀 Current Projects
 
