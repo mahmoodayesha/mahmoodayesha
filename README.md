@@ -13,6 +13,15 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahmooday
 - **Description:** Built a Pantry Tracker app with real-time data management and authentication.
 - **Features:** Dynamic data visualization, responsive UI.
 
+## My Recent Pull Requests & Contrbutions
+
+- [PRs in ROMO-App](https://github.com/CodeForTheCommunity/ROMO-App/pulls?q=is%3Apr+author%3Amahmoodayesha)
+
+- [PRs in flashcard-saas](https://github.com/radleyle/flashcard-saas/pulls?q=is%3Apr+author%3Amahmoodayesha)
+
+- [PRs in Careerplannr](https://github.com/mehmoodosman/CareerplannrAI/pulls?q=is%3Apr+author%3Amahmoodayesha)
+  
+
 ## Internship Experience
 - **SWE Fellow** at Headstarter AI
   - Building 5 AI projects and participating in multiple hackathons.
@@ -23,6 +32,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahmooday
 - **AI Software Engineer Intern** at Mentorness
   - Developed a helmet detection system using YOLOv8 and OpenCV.
   - Led a project on resume parsing and candidate ranking using NLP techniques.
+  - 
+
 
 ## 🏆 Achievements
 
@@ -64,11 +75,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahmooday
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me if you have any questions or opportunities.
 
-## My Recent Pull Requests & Contrbutions
-
-- [PRs in ROMO-App](https://github.com/CodeForTheCommunity/ROMO-App/pulls?q=is%3Apr+author%3Amahmoodayesha)
-
-- [PRs in flashcard-saas](https://github.com/radleyle/flashcard-saas/pulls?q=is%3Apr+author%3Amahmoodayesha)
-
-- [PRs in Careerplannr](https://github.com/mehmoodosman/CareerplannrAI/pulls?q=is%3Apr+author%3Amahmoodayesha)
 
