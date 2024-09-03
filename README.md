@@ -65,7 +65,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahmooday
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me if you have any questions or opportunities.
 
 ## My Recent Pull Requests & Contrbutions
+
 - [PRs in ROMO-App](https://github.com/CodeForTheCommunity/ROMO-App/pulls?q=is%3Apr+author%3Amahmoodayesha)
 
 - [PRs in flashcard-saas](https://github.com/radleyle/flashcard-saas/pulls?q=is%3Apr+author%3Amahmoodayesha)
+
+- - [PRs in CareerplannrA](https://github.com/mehmoodosman/CareerplannrAI/pulls?q=is%3Apr+author%3Amahmoodayesha)
 
