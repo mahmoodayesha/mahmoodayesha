@@ -14,12 +14,13 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahmooday
 - **Features:** Dynamic data visualization, responsive UI.
 
 ## My Recent Pull Requests & Contrbutions
+- [PRs in Careerplannr](https://github.com/mehmoodosman/CareerplannrAI/pulls?q=is%3Apr+author%3Amahmoodayesha)
 
 - [PRs in ROMO-App](https://github.com/CodeForTheCommunity/ROMO-App/pulls?q=is%3Apr+author%3Amahmoodayesha)
 
 - [PRs in flashcard-saas](https://github.com/radleyle/flashcard-saas/pulls?q=is%3Apr+author%3Amahmoodayesha)
 
-- [PRs in Careerplannr](https://github.com/mehmoodosman/CareerplannrAI/pulls?q=is%3Apr+author%3Amahmoodayesha)
+- [PRs in RateMyProf](https://github.com/radleyle/AI-rate-my-professor/pulls?q=is%3Apr+author%3Amahmoodayesha)
   
 
 ## Internship Experience
